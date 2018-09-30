@@ -1,0 +1,16 @@
+[
+  {"nombre": "Mal uso de equipo de protección personal"},
+  {"nombre": "Falta de equipo de protección personal"},
+  {"nombre": "Falta de capacitación"},
+  {"nombre": "Operar equipos sin autorización"},
+  {"nombre": "Métodos de trabajo y procedimientos de trabajo incorrectos"},
+  {"nombre": "Defectos en los equipos"},
+  {"nombre": "Maquinarias"},
+  {"nombre": "Herramientas de trabajo e instalaciones"},
+  {"nombre": "Incorrecta colocación de los materiales o productos en las áreas de trabajo"},
+  {"nombre": "Maquinarias y herramientas en mal estado"},
+  {"nombre": "Instalaciones con deficiente mantenimiento"},
+  {"nombre": "Falta de orden y limpieza en las áreas de trabajo"},
+  {"nombre": "Descuido del operador"},
+  {"nombre": "Equipo de seguidad no apto para el trabajor"}
+]

@@ -1,0 +1,13 @@
+[
+  {"nombre": "Horno"},
+  {"nombre": "Almacén de MP"},
+  {"nombre": "Forja"},
+  {"nombre": "Tratamientos Térmicos"},
+  {"nombre": "Fundición"},
+  {"nombre": "Recepción de Materiales"},
+  {"nombre": "Almacén de PT"},
+  {"nombre": "Producción"},
+  {"nombre": "Bóvedas"},
+  {"nombre": "Chatarra"},
+  {"nombre":"Patio"}
+]
